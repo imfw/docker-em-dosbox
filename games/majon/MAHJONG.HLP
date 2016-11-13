@@ -1,0 +1,14 @@
+T: 2,2,"GUIDE TO MAHJONGG TILES"
+G: 1,6,-10,6,-10,"SEASONS",37,"Spring",38,"Summer",39,"Autumn",40,"Winter"
+G: 1,6, 10,6, 10,"FLOWERS",41,"Orchid",42,"Plum",43,"Mum",44,"Bamboo"
+M: "There is one each of the Season and Flower tiles."
+C:
+G: 1,1,0,1,0,"DOTS",10,11,12,13,14,15,16,17,18
+G: 1,10,0,10,0,"BAMS",19,20,21,22,23,24,25,26,27
+G: 1,19,0,19,0,"CRAKS",28,29,30,31,32,33,34,35,36
+M: "There are four each of each tile shown."
+C:
+G: 1,6,-11,6,-11,"DRAGONS",3,"Red Dragon",4,"White Dragon",5,"Green Dragon"
+G: 1,6, 10,6, 10,"WINDS",6,"East Wind",7,"West Wind",8,"North Wind",9,"South Wind"
+M: "There are four each of each tile shown."
+

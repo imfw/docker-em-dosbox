@@ -1,0 +1,7 @@
+emdosbox:
+  build: .
+  ports:
+    - "8000:8000"
+  volumes:
+    - $PWD/html:/html
+    - $PWD/games:/games

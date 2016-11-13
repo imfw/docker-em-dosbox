@@ -1,0 +1,55 @@
+                ACTIVISION DOS Installer
+
+This INSTALL program will set up the information needed
+to run this software product.  Please make a backup
+copy of the original software disks before running
+the Installer.
+
+The Installer will go through the following steps:
+
+1.  Ensure that any hardware requirements are met.
+2.  Set up the hardware devices to be used.
+3.  Install the software onto another disk (if desired).
+
+Use ESC to back up to a previous screen.
+You are currently configured for the following hardware:              
+
+     Video Display:
+     Music Device:
+     Sound Device:
+     Input Device:
+
+
+If you wish to change any of the hardware options shown above, use
+the arrow keys ( and ) to move to the desired selection and then
+select `C'hange.
+Select a Video Display from the following:
+Select a Music Device from the following:
+Select a Sound Device from the following:
+Select an Input Device from the following:
+The Music/Sound Device selected is not detectable.
+Please select a port address from the following:
+Do you wish to install the software onto another disk drive?
+
+Install FROM (drive letter):
+
+
+Install TO (drive letter):
+
+
+Destination Path:                                          
+The software has been successfully installed.  To run
+from DOS, enter the following at the DOS prompt:
+
+     CD
+
+
+
+To return to DOS, select the `E'xit option.  
+The software has not been installed at this time.
+If you wish to install the software onto disk, use the
+ESC key to back up or select `E'xit to return to DOS.
+An error occurred during the installation.  Correct the
+problem and run the installation again or use the ESC
+key to back up and try again.  Select `E'xit to return to DOS.
+Quit the installation process?

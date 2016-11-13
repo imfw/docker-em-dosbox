@@ -1,0 +1,64 @@
+Insufficient RAM of %dk to meet requirements of %dk.
+The machine must be upgraded before this product will run.
+Insufficient available RAM of %dk to meet requirements of %dk
+(1k = 1,024 bytes).  If you wish to `C'ontinue the installation,
+remove any resident programs and reboot before running the software.
+Operating system version %s is insufficient to meet
+requirements of %s.  The machine must be upgraded before
+this product will run.
+A hard disk is required to run this product.
+A joystick is required to run this product.
+The machine must be upgraded before this product will run.
+Two joysticks are required to run this product.
+The machine must be upgraded before this product will run.
+A mouse is required to run this product.
+The machine must be upgraded before this product will run.
+Invalid Video Display detected.
+Invalid Music Device detected.
+Invalid Sound Device detected.
+Invalid Input Device detected.
+The device you selected has not been detected.
+Please ensure that your selection is correct.
+The device you selected is not detectable.
+Please ensure that your selection is correct.
+Invalid drive `%c' specified.  Select another drive letter
+or bypass the disk installation portion of this process.
+Insufficient free space of %ldk to meet requirements of %ldk.
+Select another drive letter or bypass the disk installation
+portion of this process.
+WARNING: The installation will require either
+         %d high density diskette(s) or
+         %d low density diskette(s).
+The parent directory(ies) specified do not currently exist.
+The directory(ies) will be created.
+WARNING:  Any existing files will be overwritten.
+Please insert diskette number %d ...
+Please insert a blank diskette.
+Please insert diskette %c in the drive.
+Error opening file %s.     
+Error writing file %s.  Please be sure
+that the source diskette is not write protected.
+Error closing file %s.     
+Memory allocation error.
+DOS Error %d: File already exists.
+DOS Error %d: Disk is full.
+DOS Error %d: File not found.
+DOS Error %d: Path not found.
+DOS Error %d: Access denied.
+DOS Error %d: Invalid file.
+DOS Error %d: Invalid drive.
+DOS Error %d: Diskette is write protected.
+DOS Error %d: Disk drive not ready.
+DOS Error %d: Data error (CRC).
+DOS Error %d: Write fault.
+DOS Error %d: Read fault.
+DOS Error %d: General failure.
+Please insert a formatted diskette.
+DOS Error %d: Unknown DOS error.
+
+
+Updating resource configuration file.  Please wait ...
+
+
+Performing installation.  This will take a few minutes ...
+Press ESC to cancel the installation process.

@@ -1,0 +1,83 @@
+:Base Heroes2.hlp>main
+:Title Heroes Of Might And Magic II
+1 Heroes of Might and Magic II
+2 Welcome to Heroes of Might and Magic II
+3 Introduction=INTRO
+3 What's New=NEW
+2 Basic Operations
+3 Mouse=MOUSE
+3 File Selector=FILE
+2 Tutorial
+3 Getting Aquainted=PART1
+3 Troops and Buildings=PART2
+3 Exploration and Discovery=PART3
+3 Combat Basics=PART4
+2 Main Menu
+3 Main Menu=MAINMENU
+3 Standard Game=STANDARD
+3 Campaign Game=CAMPAIGN
+3 Multi-Player Game=MULTI
+2 Adventure Screen
+3 Adventure Window=ADVWIN
+3 World Map=WORLDMAP
+3 Locator Buttons=LOCBUT
+3 Adventure Buttons=ADVBUT
+3 Adventure Options=ADVOPT
+3 Disk Options=DISKOPT
+3 System Options=SYSOPT
+3 Information Box=INFOBOX
+2 Game Play
+3 Hero Movement=HEROMOVE
+3 Movement Cursors=MOVeCURS
+3 Objects and Locations=OBJLOC
+3 Creature Interaction and Diplomacy=DIPLO
+2 Towns
+3 Town Screen=TOWN
+3 Structures=STRUCTURE
+2 Heroes
+3 Hero Window=HEROWIN
+3 Creature Information Window=CRTWIN
+3 Hero Types=TYPES
+3 Movement=MOVE
+3 Secondary Skills=SECSKILL
+3 Skill Advancement=SKILLADV
+3 Hero Trading Screen=HEROTRA
+2 Kingdom Overview
+3 Kingdom Overview Screen=KINGOVER
+2 Combat
+3 Field Combat=FCOM
+3 Siege Combat=SCOM
+3 General's Options=GENOPT
+3 Combat Cursors=COMCURS
+3 Combat Options=COMOPT
+2 Spell System
+3 Spells=SPELLS
+2 Welcome to the Heroes II Map Editor
+3 Introduction=EINTRO
+2 Main Screen
+3 Main Screen=EMAIN
+2 Editor Screen
+3 Editor Window=EWIN
+3 Editor World Map=EMAP
+3 Editor Mode Buttons=EMODE
+3 Editor Buttons=EBUT
+2 Hints and Tips
+3 Hints and Tips=HINTS
+2 Appendix:  Active Objects
+3 Active Objects=ACTIVE
+2 Troubleshooting
+3 Troubleshooting=TROUBLE
+3 Reaching Customer Support=CUST
+2 Credits and Legal Information
+3 Credits=CREDITS
+3 Legal Information=LEGAL
+1 Heroes of Might and Magic II:  The Price of Loyalty
+2 Installation and Play=XINSTALL
+2 Customer Support=XSUPPORT
+2 Credits- Team Cyberlore Studios, Inc.=XCREDITS1
+2 Credits- Team New World Computing=XCREDITS2
+2 What's New=XNEW
+2 New Campaigns=XCAMPAIGN
+2 Editor Compatibility=XEDITOR
+2 New Locations=XEVENTS
+2 New Artifacts=XARTIFACTS

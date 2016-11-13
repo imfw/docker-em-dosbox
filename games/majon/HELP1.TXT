@@ -1,0 +1,82 @@
+HOW TO PLAY
+
+Strategy Hints: Shanghai
+
+1) Concentrate on removing tiles that are blocking the most moves.  There are few such tiles in the Easy layouts (Boar, Dragon, Monkey, and Snake); there are several key blocking tiles in the Advanced layouts (Shanghai, Dog, Monkey, Ram, and Rooster); there are multiple blocking tiles in the Master layouts (Horse, Ox, Rabbit, and Tiger).
+
+2) Examine each layout carefully before starting play to find as many matching pairs as possible.  Also, in the Advanced and Master layouts, check for tiles that you will need to unblock as soon as possible.  It is often better to concentrate on long rows rather than on tall stacks.
+
+3) Always check for triples.  If you've found a pair to remove, look for a third (or fourth) free tile that also matches.  If you take two out of three matching tiles, make sure the one you leave is blocking the fewest important tiles.  If you're not sure what to do with a triple, leave it and make another move instead.
+
+4) If you see that all four tiles of one kind free at once, remove them so they're out of your way.
+
+5) Look ahead for as many moves as you can.
+
+
+Strategy Hints: Dragon's Eye
+
+
+Dragon Slayer Hints
+
+1) Keep drawing as many tiles as possible to continue making matches.  Remove all matching tiles from the board as soon as possible.
+
+2) If you have a matching pair in your hand, place one of the pair on one of the six spaces at the edges of the Dragon that block two tiles each.  You'll be able to unblock those spaces later at your convenience.
+
+3) Don't worry too much about having to put tiles on the Dragon display.  You will usually find cascades happening, where matching pairs of tiles suddenly appear all around the display.
+
+4) If you must put a tile on the display, try to place it in a space where it does not block others.  The center tiles are the best.
+
+Dragon Master Hints
+
+1) Although you have only three tiles in your hand, you control the pace of the game.  Your objective is to bury matching pairs so your opponent cannot remove them.  Try to capture the six outer spaces on the display that block two spaces each.
+
+2) Try to remember which tiles have been removed.  If a pair has already been removed and you place a third similar tile on one of the outer spaces, there is only one tile remaining that can be matched and unblock the two tiles.
+
+3) You will often have three tiles in your hand that match others on the display.  Place the tile that will do the least damage by unblocking the minimal number of other spaces.  You may be able to bury the more damaging tiles in future moves.
+
+
+Scoring: Dragon's Eye
+
+Points for the Dragon Master
+
+Whenever the Dragon Slayer places a tile on the layout: 1 point
+
+Whenever either player places a tile on the second level: 10 points
+
+Completing the Dragon: 100 points bonus
+
+
+Points for the Dragon Slayer
+
+Removing a pair of tiles: 2 points
+
+Opening a space in the Dragon's Limbs: 5 points
+
+Opening a space in the Dragon's Heart: 10 points
+
+Clearing the Heart and Limbs completely: 100 points bonus
+
+
+Scoring: Tournament Game 
+
+Challenge Mode: At the end of Dragon's Eye in each Round, the lower score is subtracted from the higher score, and the difference is awarded to the high scorer.  A player receives a 100 point bonus for an automatic victory.
+
+At the end of all three Shanghai layouts in the Round, the total elapsed time of the faster player is subtracted from the total elapsed time of the slower player.  Each second of the difference is worth one point to the faster player. 
+
+Note that total elapsed time includes penalties.  The Find a Match option adds 20 seconds to the player who used it, and the Shuffle Remaining Tiles option adds 60 seconds.  Both of these options are on the Help menu.
+
+Each player's points from Dragon's Eye and the three Shanghai layouts are added together for a final score.  At the end of all four Rounds of the Tournament, all four final scores are added together and the overall winner is determined.
+
+Either or both of the players may then be eligible to enter the Hall of Fame.  The Hall of Fame includes the top ten scores for both the Challenge and Solitaire versions of the game.
+
+Solitaire Mode: At the end of Dragon's Eye in each Round, the player gets the points he's earned if he wins; if he loses, he gets nothing.
+
+At the end of all three Shanghai layouts in the Round, the total elapsed time of the player is scored as follows:
+        30 minutes or less: 1000 points
+        30:01 to 60:00: 500 points
+        60:01 to 90:00: 250 points
+        90:01 to 120:00: 150 points
+        120:01 or more: 100 points
+
+Everything else is the same as in Challenge mode.
+

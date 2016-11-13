@@ -1,0 +1,101 @@
+RULES
+
+Shanghai
+
+Shanghai is a game of strategy, memory, and luck.  There are 144 tiles, arranged in one of thirteen layouts based on the Chinese lunar calendar, or other layouts you can create.
+
+The object of Shanghai is to remove all the tiles from the layout, one pair at a time.  To be removed, both tiles in a pair must be free at the same time, and they must match.  A tile is considered free if there's nothing on top of it, and if it can slide out to the left, to the right, or both.  A tile which can only slide toward the top or the bottom of the screen is not free.
+
+There are usually four of each tile, which can be removed as two matching pairs.  In some tile sets, there are four unique tiles.  Each of these tiles matches any other similar tile.  For example, in the Fantasy tile set, the Court tiles consist of the King, Queen, Princess, and Jester; any Court tile matches any other Court tile.  The Guide to Tiles on the Help menu shows which tiles match in a set.
+
+To remove a pair of tiles during the game, simply select the two tiles you want.  To select a tile, click on it with the mouse, click on it with the joystick button, or move the cursor onto it with the arrow keys and hit Enter. If it's eligible to be removed, it will become highlighted.  Selecting a matching tile removes the pair.
+
+If you change your mind about selecting a tile, just select it again, and it will become unhighlighted or simply select another eligible tile.  If you choose an inappropriate tile, it will automatically become unhighlighted. 
+
+As you remove tile pairs, the game tells you how many tiles still remain in the layout.  Thus, if you see "32" on the right side of the Menu bar, you know that there are still 32 tiles (16 pairs) to be removed.
+
+You can play Shanghai with thirteen layouts and with eight tile sets.  To change layouts or tile sets, select the Options menu and then New Layout or New Tile Set.  Open the layout or tile set you wish to use.
+
+The Game menu lets you save a game, open a saved game, or save a copy of the current game under a different name (via "Save As").
+
+During play of a game, you can use the Options menu to select such preferences as turning music, sound effects, and tile animations on and off.  The game will automatically tell you when there are no more moves.
+
+
+
+
+Dragon's Eye
+
+On the left side of the screen is the Dragon display.  When you start a game, eight tiles appear on the board.  The six face-up tiles are the Dragon's "limbs" and the two face-down tiles are the Dragon's "heart".  Should they later become cleared, you'll see that the spaces beneath the limbs are light gray and the spaces beneath the heart are dark gray.
+
+On the right side of the screen, at the bottom, are five tiles.  These form the Dragon Slayer's hand.  There are three tiles to the right at the top of the screen.  These form the Dragon Master's hand.
+
+The object for the Dragon Master is to build the Dragon to full strength by filling all spaces on the display one level high, and all spaces on the Dragon's heart and limbs two levels high.  The Dragon Slayer, on the other hand, tries to remove all tiles from the "heart" and "limb" spaces.  In either case, this is an automatic victory for the player. 
+
+The Dragon Master places tiles on the Dragon display to fill it up.  The Dragon Slayer tries to remove matching tile pairs from the display to empty it, but he must place a tile on the display if he can't find a match.  A tile becomes blocked when tiles are placed adjacent to it on both sides, and cannot be removed until it is unblocked.  Blocked tiles are inverted.  When the Dragon Slayer removes a tile that blocks others, the now-unblocked tiles turn face up and are available to be removed.
+
+Second-level tiles are placed only on the face-down tiles of the heart and limbs.  These tiles have white backs.
+
+As soon as the last open space on the second level is filled, and the Dragon Slayer can't make any more moves, the game ends.  If all tiles are removed from the heart and limb spaces, the game ends.  If all 144 tiles have been drawn and the Dragon display is not completed when the last tile is placed on the display, the game ends; in this case, the players' scores are compared to determine the winner.
+
+When you play Solitaire against the computer, you see the tile played by the computer if it's placed face up on the display, but not if it's placed face down.  The tiles in your hand are always face up.
+
+In Challenge mode (two-player), players alternate turns as usual.  Both hands are face down.  When your turn comes, have the other player look away and select Flip to turn your hand face up.  When you finish your turn by selecting Done, your hand automatically flips face down.
+
+The Dragon Slayer's Turn: The Dragon Slayer always goes first.  If you are playing against another player, select Flip to turn the tiles in your hand face up.  Note that there is a finger pointing to your hand when it is your turn.  The pointing finger is white when you can draw a tile or are eligible to make a match.  The finger turns gray after you've been forced to discard a tile onto the display and can do nothing more except end your turn.
+
+You have five tiles in your hand to begin with.  As your turn begins, a sixth tile is automatically drawn for you.
+
+You now try to remove matching tile pairs from the Dragon display.  Removing tiles is the same as in Shanghai.  You select a tile in your hand or on the board and then select a matching tile.  The tiles are removed.  You may remove as many tiles as you can or wish to.
+
+If you ever have less than five tiles in your hand, you can immediately draw new tiles, using the Draw button on the display.  You continue to match tiles until you no longer can or wish to.
+
+If you have six tiles and can make no matches, you must discard one of the tiles in your hand onto the Dragon display.  Select the tile you wish to discard and then the space on the display where the tile is to go; the pointing finger will turn gray.  At the end of your turn, you can have a maximum of five tiles in your hand.
+
+Once you've completed all available actions for a turn, select Done to end your turn; in the Challenge mode, your tiles will also flip over.  The finger now points at the Dragon Master's hand.
+
+
+The Dragon Master's Turn: The Dragon Master always goes second.  When the finger points at your hand, it's your turn.  You start the game with three tiles.  In a two-player game, select Flip to turn your tiles face up.
+
+In your turn, you place one of these tiles on the board.
+
+You face only one restriction when placing tiles.  If any Dragon heart or limb space is open (they are the light and dark gray spaces in the center of the display), you must fill this space, with a heart space having precedence over a limb.  If the heart and limb spaces are all filled, you can place the tile anywhere.
+
+You will want to place tiles to block as many spaces as possible.
+
+After you place a tile, the pointing finger turns gray.  You may now draw another tile, which ends your turn.  Select Draw.  If you forget to draw a tile at the end of your turn, the computer will automatically draw one for you.  You can never have more than three tiles in your hand.
+
+Select Done to end your turn.  In two-player mode, your hand will be inverted when you select Done.
+
+Solitaire Mode
+
+Solitaire Shanghai: Solitaire Shanghai uses the standard rules.  You can select any layout and any tile set.  There is no scoring involved.
+
+Solitaire Tournament: To play a Tournament game in this mode, select Solitaire, under Tournament, from the New Game menu.  Standard rules are used in Tournament games.  In each of the four Round, you play one Dragon's Eye and three Shanghai games.
+
+At the beginning of each Round, you play Dragon's Eye Solitaire, alternating between the Dragon Slayer and Dragon Master, with the computer as your opponent.  After you take your turn, the computer takes its turn.  Dragon's Eye is scored on the basis of skill.  See "How to Play" for details on scoring.
+
+Shanghai is scored on the time taken in playing.  The faster you complete your three layouts, the higher your score.  Time is added to your clock for using the Find a Match or Shuffle Remaining Tiles option on the Help menu.
+
+
+Challenge Mode
+
+In this mode, you compete against another player.  You use the regular Dragon's Eye and/or Shanghai rules, and take turns in playing.
+
+Both players must use the same method of input: mouse, joystick, or keyboard. 
+To play a Tournament game in this mode, select Challenge, under Tournament, from the New Game menu.  Note that in a Tournament the players' respective times to finish the three Shanghai layouts in a Round are compared to determine the winner.  Once the winner in a Round is determined, the clocks start at zero again.
+
+
+The Tournament Game
+
+A Tournament game consists of four Rounds.  In each Round you play four layouts: Dragon's Eye, then three levels of Shanghai (Easy, Advanced, and Master).  You can play a Tournament in Solitaire or Challenge mode.  Before the Tournament begins, you will be asked to enter your name, which can be up to seven characters long.  In the Challenge mode, you must determine which player will go first throughout the Tournament.
+
+Dragon's Eye is scored on the basis of skill.  Shanghai is scored on the time taken in playing.  The faster you complete your three layouts, the better your score.  Time is added to your clock for using the Find a Match or Shuffle Remaining Tiles option on the Help menu.
+
+In Challenge mode, the difference in time between the two players on each layout is awarded to the player with the lower time, one point per second.  At the beginning of each layout, there is a short pause so that players can study the board; no matches can be made during this time.  All Shanghai games have the Winnable Layout option on; players may turn this option off if they wish.
+
+At the end of each Round, the players' scores appear after the reward sequence.  Bonus points are awarded for an automatic victory in Dragon's Eye.
+
+When you complete the final Round in a Tournament game, the game shows your score (or both scores in Challenge mode) and the Hall of Fame appears after the final reward sequence.  
+
+Eligible scores are entered in the Hall of Fame.
+

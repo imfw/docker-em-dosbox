@@ -1,0 +1,274 @@
+@L0
+Русский
+Выбирайте опции или давите <ESC>
+@L1
+Deutsch
+Funktionstaste drБcken oder <ESC> fБr RБckkehr.
+@L2
+English
+Choose an option or ESC to return
+@L3
+Espaдol
+Pulse una tecla de funciвn o ESC para anular.
+@L4
+Italiano
+Premere un tasto di funzione o ESC per annullare.
+@G0
+Выберите графический интерфейс :
+цветов
+Жмите функциональные клавиши или <ESC>
+@M0
+Есть ли у вас мышь? :
+Мышь белая, Микрософт совместимая
+Нет, пока не купили.
+Жмите функциональные клавиши или <ESC>
+@S0
+Звуки      :
+Выбирайте звуковой интерфейс:
+Молча
+Стандартный динамик
+MediaVision ProAudio карта
+Adlib Compatible карта
+SoundBlaster карта
+InterSound MDO интерфейс
+Жмите функциональные клавиши или <ESC>
+@P0
+Выбранная вами конфигурация:
+Видео Карта :
+цветная
+Мышь      : белая, Микрософт совместимая.
+Мышь      : отсутствует.
+Язык      : Русский.
+ESC: Выйти без сохранения    Сохранить конфигурацию <─┘
+ESC: Выйти в DOS             Запустить игру         <─┘
+@G2
+Choose the graphic interface :
+colors
+Press a Function Key or ESC to return
+@M2
+Do you have a mouse ? :
+Compatible Microsoft mouse
+No mouse, or other cases.
+Press a Function Key  or ESC to return
+@S2
+Sound      :
+Choose the sound interface :
+No sound
+Standard sounds
+MediaVision ProAudio card
+Adlib Compatible card
+SoundBlaster card
+InterSound MDO interface
+Press a Function Key  or ESC to return
+@P2
+Your present configuration is the following one :
+Video Card :
+colors
+Mouse      : Microsoft compatible Mouse.
+Mouse      : No Microsoft compatible Mouse.
+Language   : English.
+ESC: EXIT-NO SAVE              SAVE CHANGES <─┘
+ESC: EXIT TO DOS                RUN PROGRAM <─┘
+@G1
+WДhlen Sie die GrafikKarte :
+Farben
+Funktionstaste drБcken oder <ESC> fБr RБckkehr.
+@M1
+Besitzen Sie eine Maus ? :
+Maus kompatibel Microsoft.
+Keine Maus oder anderer Fall.
+Funktionstaste drБcken oder <ESC> fБr RБckkehr.
+@S1
+Ton         :
+WДhlen Sie Ihre SoundKarte :
+Kein Ton.
+Keine Karte fБr den Ton.
+Ton mit Karte Proaudio.
+Ton mit Karte Adlib.
+Ton mit Karte SoundBlaster.
+Ton mit Karte Intersound MDO.
+Funktionstaste drБcken oder <ESC> fБr RБckkehr.
+@P1
+Ihre aktuelle Konfiguration ist folgende:
+GrafikKarte :
+Farben
+Maus        : Kompatibel Microsoft.
+Maus        : Keine Maus oder nicht anderer Fall.
+Sprache     : Deutsch.
+<ESC> ABBRUCH OHNE ABSPEICHERN   ОNDERUNGEN SPEICHERN <─┘
+<ESC> ZURБCK ZU DOS                  PROGRAMM STARTEN <─┘
+@G3
+Escoja la interfaz grаfica :
+colores
+Pulse una tecla de funciвn o ESC para anular.
+@M3
+и Tiene un ratвn ? :
+Ratвn compatible Microsoft
+Sin ratвn u otros casos.
+Pulse una tecla de funciвn o ESC para anular.
+@S3
+Sonido :
+и QuВ tipo de sonido desea ? :
+Sin sonido.
+Sin interfaz sonora.
+Sonido con Interfaz ProAudio
+Sonido con Interfaz Adlib.
+Sonido con Interfaz SoundBlaster.
+Sonido con Interfaz InterSound MDO.
+Pulse una tecla de funciвn o ESC para anular.
+@P3
+Tu configuraciвn actual es la siguiente :
+Tarjeta grаfica :
+colores
+Ratвn  : Ratвn compatible Microsoft.
+Ratвn  : Sin ratвn u otros casos.
+Idioma : Espaдol.
+ESC: ABANDONAR SIN SALVAR                SALVAR CAMBIOS <─┘
+ESC: ABANDONAR-VOLVER AL DOS       DESARROLLAR PROGRAMA <─┘
+@G4
+Scegliete la scheda grafica :
+colori
+Premere un tasto di funzione o ESC per annullare.
+@M4
+Avete un mouse ?
+Mouse compatibile Microsoft
+Senza mouse o altro
+Premere un tasto di funzione o ESC per annullare.
+@S4
+Suono    :
+Che tipo di suono vorreste avere :
+Niente suono.
+Suono senza interfaccia.
+Suono con interfaccia ProAudio
+Suono con interfaccia Adlib.
+Suono con interfaccia SoundBlaster.
+Suono con interfaccia InterSound MDO.
+Premere un tasto di funzione o ESC per annullare.
+@P4
+La configurazione К la seguente :
+Scheda Video :
+colori
+Mouse    : Compatibile Microsoft.
+Mouse    : Senza mouse o altro.
+Lingua   : Italiano.
+ESC: USCIRE SENZA SALVARE         SALVARE LE MODIFICHE <─┘
+ESC: USCIRE-RITORNARE AL DOS        LANCIARE PROGRAMMA <─┘
+@K0
+Ваша конфигурация была сохранена.
+- Для запуска программы нажмите любую кнопку.
+- Для выхода в DOS нажмите ESC.
+Ваш диск защищен от записи.
+Снимите наклейку и нажмите
+любую кнопку.
+@K1
+Die aktuelle Konfiguration wurde abgespeichert.
+- Beliebige Taste drБcken, um das Programm zu starten.
+- <ESC> = zurБck zu DOS.
+Die Diskette ist schreibgeschБtzt.
+Den Schreibschutz entfernen und
+eine beliebige Taste drБcken.
+@K2
+Your configuration has been saved.
+- To execute the program, press any key.
+- To exit to DOS, press the ESC key.
+Your disk is write-protected.
+Remove the protection and
+press a key.
+@K3
+Tu configuraciвn acaba de ser salvaguardada.
+- Para lanzar el programa pulse cualquier tecla.
+- Para acceder al DOS, pulse la tecla ESC.
+Su disco estа protegido contra la
+escritura. Quitar la protecciвn y
+pulsar una tecla.
+@K4
+La vostra attuale configurazione К stata salvata.
+- Per lanciare il programma, premere un tasto.
+- Per uscire dal DOS, premere ESC.
+Il vostro dischetto К protetto dalla
+scrittura. Togliere la protezione e
+premere un tasto.
+@E0
+МИНЗДРАВ ПРЕДУПРЕЖДАЕТ!
+Для нормальной работы,
+этой программе надобно %d килобайт в памяти.
+этой программе надобно %d килобайт на винте.
+Вы же ей подсунули всего %d!
+Будут проблемы - читайте руководство.
+Нажмите ENTER для продолжения или ESC для выхода.
+Для нормальной работы перепишите программу на винт.
+Нажмите любую клавишу для выхода...
+Необходима Микрософтовская мышь (белая).
+Необходима VGA карта.
+Нужен SoundBlaster.
+Нужен Adlib.
+Нужна MediaVision ProAudio карта.
+Нужен InterSound MDO интерфейс.
+Нужен CD-ROM.
+@E2
+WARNING
+To run correctly,
+This program needs %d Kbytes in Ram.
+This program needs %d Kbytes on Hard Disk.
+You have only %d Kbytes free.
+In case of malfunction, consult your manual.
+Press Enter to Continue or Esc to Exit
+This program requires a hard disk to run correctly.
+Press any key to Exit ...
+Compatible Microsoft Mouse is necessary.
+VGA card is necessary for this application.
+SoundBlaster card is necessary.
+Adlib Compatible card is necessary.
+MediaVision ProAudio card is necessary.
+InterSound MDO interface is necessary.
+A CDROM is necessary for this application
+@E1
+Achtung !
+FБr einen stФrungsfreien Ablauf :
+Dieses Programm benФtigt %d KB RAM.
+Dieses Programm benФtigt %d Platz auf der Festplatte.
+Es sind nur noch %d KB frei.
+Bei Auftreten eines Fehlers im Handbuch nachschlagen.
+<ENTER>=weiter, <ESC>=Abbruch
+Dieses Programm benФtigt eine Festplatte.
+Beliebige Taste drБcken=Abbruch...
+Microsoft kompatible Maus erforderlich.
+Dieses Programm benФtigt eine VGA-Karte.
+Dieses Programm erfordert eine Adlib-Soundkarte oder Kompatibel.
+Dieses Programm erfordert eine MediaVision ProAudio Soundkarte.
+Dieses Programm erfordert eine Intersound MDO Schnittstelle.
+Dieses Programm erfordert eine CD-ROM.
+@E3
+нAtenciвn!
+Para desarrollarse como conviene,
+Este programa necesita %d Kbytes en la RAM.
+Este programa necesita %d Kbytes en el disco duro.
+Solo dispone de %d Kbytes libres.
+En caso de problema, consulta el manual.
+Pulse "Enter" para continuar o "Esc" para abandonar.
+Es necesario disponer de un disco duro.
+Pulse cualquier tecla para abandonar...
+Es necesario disponer de una tarjeta compatible Microsoft.
+Es necesario disponer de una tarjeta VGA para esta aplicaciвn.
+Es necesario disponer de una tarjeta SoundBlaster.
+Es necesario disponer de una tarjeta  compatible Adlib.
+Es necesario disponer de una tarjeta MediaVision ProAudio.
+Es necesario disponer de una interfaz Intersound MDO.
+Es necesario disponer de un CD-ROM.
+@E4
+ATTENZIONE
+Per un buon funzionamento,
+Questo programma richiede %d kbytes di RAM.
+Questo programma richiede %d kbytes su disco rigido.
+Ci sono solo %d kbytes liberi.
+In caso di disfunzione, consultare il manuale.
+Premere Enter per Continuare o ESC per uscire.
+Questo programma richiede un disco rigido.
+Premere un tasto per uscire.
+E' necessario usare un Mouse Microsoft compatibile.
+Quest' applicazione richiede una carta VGA.
+E' necessario usare una carta Soundblaster.
+E' necessario usare una carta MediaVision ProAudio.
+E' necessario usare un Intersound MDO interface.
+Quest' applicazione richiede un CD-ROM.
+#

@@ -1,0 +1,26 @@
+GUIDE TO THE LAYOUT CONSTRUCTION SET
+
+Call up the Construction Set option from the File menu.  You can create your own layouts, save them, and use them in Solitaire or Challenge Shanghai.
+
+A template grid appears on the screen.  The grid has eight rows of fifteen spaces.  Tiles must be placed within the limits of the grid.  You can create layouts up to six layers high.
+
+A number at the upper right corner of the Menu bar tells how many tiles have been placed.  All complete layouts must contain 144 tiles.
+
+To place a tile on the display, select any space on the display with the mouse or joystick button or by pressing Enter.  A blank tile will appear.  You can move this tile around the board by selecting it and dragging it.
+
+To drag with a mouse or joystick, click on the tile with the left button and, while holding the button down, move the mouse or joystick across the display.  To drag a tile with the keyboard, move the cursor over it with the arrow keys and press the Space Bar; move the highlighted tile with the arrow keys and press Enter to place the tile in its new position.  The tile will move in half-space increments across the board. 
+
+If you drag a selected tile off the edge of the display, it will disappear.  You can also remove a tile by selecting it and pressing Delete.  If you drag a tile across one already on the display, the dragged tile will be positioned atop the other tile, to a maximum of six layers.
+
+You can place a tile directly atop another one on the display by clicking with the right mouse/joystick button or by moving the cursor over it and pressing the Enter key.  Once this tile is placed, you can reposition it as you wish by dragging it.
+
+You can reposition all the tiles on the board by using the function keys.  Press F4 to move the tiles one-half space to the left, the F5 key to move them one-half space up, the F6 key to move them one-half space to the right, and the F7 key to move them one-half space down.  You can also select these moves from the Options menu.
+
+If you move the tiles beyond the limits of the display, all tiles beyond the limit will disappear.  You can turn the background grid on and off by selecting or deselecting Show Menu on the Options menu or by pressing F3.
+
+When you start a new layout, two buttons appear (Player 1 and Player 2).  These buttons represent the clocks for Challenge mode.  You must save room on the display for these buttons.  Select, drag, and position these buttons as you would a tile.
+
+Save a layout by selecting Save or Save As from the File menu.  Use Save if you are just starting a new layout or wish to copy over a layout you've altered, and Save As if you wish to save the layout under a new name.  Your layout can have a name up to eight characters long.  You can save to a hard disk or a floppy disk.
+
+To load a layout for play, select Open from the File menu and scroll through the list until you find the one you want and then select it.  You can play it in Solitaire or Challenge mode.
+

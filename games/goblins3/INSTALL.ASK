@@ -1,0 +1,509 @@
+000 Recherche des versions antÇrieures...
+001 %3ld.%1ld Mo
+002 Espace libre nÇcessaire : %s
+003 ~Quitter~
+004 Souris
+005 InsÇrez la disquette 1 de l'Çpisode %d dans le lecteur
+006 ~PrÇsente~
+007 Pas assez de place sur le disque dur ! (%s manquants)
+008 Choisissez votre langue :
+009 ~Installation  compläte  %s~
+010 ~Installation partielle  %s~
+011 ~Jeu~
+012 ~DÇmonstrations~
+013 Votre configuration est la suivante :
+014 Carte graphique
+015 ~VGA~
+016 ~Interface MÇdiavision Proaudio~
+017 ~Interface SoundBlaster~
+018 ~Interface compatible AdLib~
+019 ~Interface InterSound MDO~
+020 ~Haut Parleur PC~
+021 ~Pas de sons~
+022 Carte sonore
+023 Joystick
+024 ~Absent~
+025 ~DÇsactivÇ~
+026 ~ActivÇ~~~~
+027 Langue
+028 Configuration avancÇe~
+029 [ OK ø ]
+030 Choisissez votre carte sonore
+031 Choisissez la nouvelle configuration
+032 Configuration automatique
+033 InsÇrez le disque %d dans le lecteur %s
+034 Installation de %s
+035 Erreur disquette
+036 Impossible de crÇer le directory %s
+037 Disque %c n'existe pas
+038 Copie de %s
+039 Espace disque insuffisant ! Choisissez un autre drive !
+040 ~Franáais~
+041 Choisissez une option
+042 ATTENTION!
+043 Il n'y a pas assez de mÇmoire Çtendue.
+044 Certains effets visuels ou sonores
+045 ne pourront pas avoir lieu.
+046 En cas de probläme consultez le manuel appropriÇ.
+047 Pressez EntrÇe pour continuer ou Echap pour sortir.
+048 Erreur mineure n'influenáant pas le bon fonctionnement du jeu
+049 VÇrification de %s
+050 dans %s
+051 Liste des unitÇs du disque dur
+052 Il existe dÇjÖ une version de %s
+053 Voulez vous l'effacer ?
+054 ~Oui~
+055 ~Non~
+056 %s EPISODE %d
+057 Voulez vous la remplacer ?
+058 Voulez vous l'effacer avant installation ?
+059 Choisissez votre partition
+060 sur %s.
+061 Confirmez l'effacement de %s
+062 Effacement terminÇe
+063 Voulez vous installer %s
+064 sur le drive C:\ ?
+065 Impossible d'accÇder Ö ce drive !
+066 ~Inutile~
+067 Choisissez une dÇmo :
+068 ~Installation sur disque dur~
+069 ~ExÇcution sur CD-ROM~
+070 InsÇrez la disquette 1 du jeu dans le lecteur
+071 Un processeur %s ou plus est nÇcessaire.
+080 ATTENTION !
+081 Pour fonctionner correctement,
+082 Ce programme a besoin de %d Koctets en Ram.
+083 Ce programme a besoin de %d Koctets sur disque dur.
+084 Vous avez seulement %d Koctets disponibles.
+085 En cas de probläme consultez le manuel appropriÇ.
+086 Pressez EntrÇe pour continuer ou Echap pour sortir.
+087 Ce programme a besoin d'un disque dur.
+088 Pressez une touche pour sortir ...
+089 une Souris Compatible Microsoft est nÇcessaire.
+090 Une carte VGA est nÇcessaire.
+091 Une carte son SoundBlaster est nÇcessaire.
+092 Une carte son compatible Adlib est nÇcessaire.
+093 Une carte son MediaVision ProAudio est nÇcessaire.
+095 L'application nÇcessite un CD-ROM.
+100 Disquette systäme~
+101 InsÇrez la disquette Ö formatter
+102 dans le lecteur A:
+103 PrÇparation de la disquette systäme en cours
+104 Disquette dÇfectueuse ou protÇgÇe en Çcriture!
+105 InsÇrez une disquette dans le lecteur A:
+107 Disquette dÇfectueuse.
+108 Changez de disquette et recommencez.
+109 Disquette systäme pràte !
+110 Utilisez-la pour dÇmarrer l'ordinateur.
+111 Certains ÇlÇments n'ont pas ÇtÇ trouvÇs :
+112 Gestionnaire HIMEM.SYS
+113 Gestionnaire de souris.
+114 Gestionnaire de clavier.
+115 Gestionnaire de CD.
+
+200 Suche nach frÅheren Versionen...
+201 %3ld.%1ld Mb
+202 Notwendiger Speicherplatz: %s
+203 ~Ausstieg~
+204 Maus
+205 Diskette 1 von Episode %d ins Laufwerk einlegen
+206 ~Vorhanden~
+207 Nicht genug Speicherplatz auf Festplatte! (%s fehlen)
+208 WÑhlen Sie die Sprache aus:
+209 ~Komplettinstallation %s~
+210 ~Teilinstallation     %s~
+211 ~Spiel~
+212 ~Demos~
+213 Sie verfÅgen Åber die folgende Konfiguration:
+214 Graphikkarte
+215 ~VGA~
+216 ~Ton mit Karte Proaudio
+217 ~Ton mit Karte SoundBlaster~
+218 ~Ton mit Karte Adlib~
+219 ~Ton mit Karte InterSound MDO~
+220 ~PC-Lautsprecher~
+221 ~Kein Ton~
+222 Soundkarte
+223 Joystick
+224 ~nicht vorhanden~
+225 ~entaktiviert~
+226 ~aktiviert~~~~
+227 Sprache
+228 Fortgeschrittene Konfiguration
+029 [ OK ø ]
+230 WÑhlen Sie Ihre SoundKarte aus
+231 WÑhlen Sie die neue Konfiguration aus
+232 Automatisch Konfigurieren
+233 Diskette %d in Laufwerk %s einlegen
+234 %s wird installiert
+235 Diskettenfehler
+236 Dateienverzeichnis %s kann nicht erzeugt werden
+237 Platte %c gibt es nicht
+238 %s wird kopiert
+239 Plattenspeicher unzureichend! Anderes Laufwerk wÑhlen!
+240 ~Deutsch~
+241 Eine Option wÑhlen
+242 VORSICHT!
+243 Erweiterter Speicherplatz unzureichend
+244 Bestimmte Bild- oder Toneffekte
+245 kînnen nicht realisiert werden.
+246 Im Falle eines Problems die entsprechende Notiz konsultieren
+247 ENTER fÅr Fortsetzung oder ESC fÅr Abbruch betÑtigen
+248 Kleiner Fehler - ohne Auswirkung auf den Spielablauf!
+249 Kontrolle von %s
+250 in %s
+251 Liste von Einheiten der Festplatte
+252 Es gibt bereits eine Version der %s
+253 Mîchten Sie wirklich lîschen?
+254 ~Ja~
+255 ~Nein~
+256 %s EPISODE %d
+257 Mîchten Sie sie ersetzen?
+258 Mîchten Sie sie lîschen, bevor Sie installieren?
+259 WÑhlen Sie Ihren Speicherbereich
+260 FÅr %s.
+261 Lîschen von %s bestÑtigen.
+262 Lîschvorgang beendet.
+263 Mîchten Sie %s installieren
+264 und zwar auf Laufwerk C:\ ?
+265 Zugang zu diesem Laufwerk unmîglich!
+266 ~Zwecklos~
+267 WÑhlen Sie eine Demo :
+268 ~Installation auf Festplatte~
+269 ~CD-ROM BenÅtzung~
+270 LEGEN SIE DIE DISKETTE 1 DES SPIELS IN DAS LAUFWERK
+280 VORSICHT!
+281 FÅr den einwandfreien Ablauf
+282 benîtigt dieses Programm %d Kb RAM-Speicher
+283 benîtigt dieses Programm %d Kb Festplattenspeicher
+284 Sie haben nur %d Kb verfÅgbar.
+285 Im Problemfall entsprechende Notiz konsultieren
+286 ENTER fÅr Fortsetzung, oder ESC fÅr Ausstieg betÑtigen
+287 Dieses Programm benîtigt zur Funktion eine Festplatte.
+288 Zum Ausstieg irgendeine Taste drÅcken...
+289 Microsoft-kompatible Maus erforderlich.
+290 VGA-Karte erforderlich
+291 SoundBlaster-Karte erforderlich
+292 Dieses Programm erfordert eine Adlib-Soundkarte oder Kompatibel.
+293 Dieses Programm erfordert eine MediaVision ProAudio Soundkarte.
+295 Dieses Programm erfordert eine CD-ROM.
+300 Systemdiskette~
+301 Zu formatierende Diskette einlegen
+302 und zwar in Laufwerk A:
+303 Vorbereitung der Diskette im Gange
+304 Diskette schreibgeschÅtzt oder defekt!
+305 Eine Diskette in Laufwerk A: einlegen
+307 Diskette defekt!
+308 Diskette austauschen und neu anfangen!
+309 Systemdiskette fertig!
+310 Syst.Disk. zum Einschalten des Rechners verwenden!
+311 Einige Elemente wurden nicht gefunden:
+312 Treiber von Speichererweiterung HIMEN.SYS
+313 Maus-Treiber
+314 Tastatur-Treiber
+315 CD-Treiberprogramm
+
+400 Searching for previous versions...
+401 %3ld.%1ld MB
+402 Space needed: %s
+403 ~Quit~
+404 Mouse
+405 Insert disk 1 of episode %d in drive.
+406 ~Present~
+407 Not enough room on the hard disk! (%s more needed)
+408 Choose your language:
+409 ~Complete installation %s~
+410 ~Partial installation  %s~
+411 ~Game~
+412 ~Demos~
+413 Your configuration is as follows:
+414 Graphics card
+415 ~VGA~
+416 ~MediaVision ProAudio~
+417 ~Soundblaster~
+418 ~Adlib compatible~
+419 ~InterSound MDO~
+420 ~PC internal speaker~
+421 ~No sounds~
+422 Sound card
+423 Joystick
+424 ~Absent~
+425 ~Not used~
+426 ~Used~
+427 Language
+428 Advanced configuration
+429 [ OK ø ]
+430 Choose your sound card
+431 Choose a new configuration
+432 Automatic configuration
+433 ~~~~~~~Insert disk %d in drive %s~~~~~~~
+434 Installation of %s
+435 Disk error
+436 Cannot create directory %s
+437 Disk %c does not exist
+438 Copying %s
+439 Not enough space on hard disk! Choose another drive!
+440 ~English~
+441 Choose an option
+442 WARNING!
+443 Not enough extended memory.
+444 Some visual or sound effects
+445 will not occur.
+446 In case of difficulty, refer to the manual.
+447 Press ENTER to continue or ESCAPE to quit.
+448 Minor error - not important to the game.
+449 Check %s
+450 in %s
+451 List of hard disks
+452 There is already a version of %s
+453 Do you want to cancel?
+454 ~Yes~
+455 ~No~
+456 %s EPISODE %d
+457 Do you want to replace it?
+458 Do you want to cancel before installation?
+459 Choose your partition
+460 on %s
+461 Confirm deletion of %s
+462 Deletion completed
+463 Do you want to install %s
+464 on drive C:\?
+465 Cannot access drive!
+466 ~Not used~
+467 Choose a demo :
+468 ~Installation on hard disk~
+469 ~Execution on CD-ROM~
+470 Insert disk 1 of the game in the drive
+480 WARNING!
+481 To function properly,
+482 This program needs %d KB of RAM.
+483 This program needs %d KB on the hard disk.
+484 You have only %d KB available.
+485 In case of difficulty refer to the manual.
+486 Press ENTER to continue or ESCAPE to quit.
+487 This program needs a hard disk.
+488 Press any key to escape...
+489 A Microsoft compatible mouse is required.
+490 A VGA card is required.
+491 A Soundblaster sound card is required.
+492 An Adlib compatible sound card is required.
+493 A MediaVision ProAudio sound card is required.
+495 This application requires a CD-ROM.
+500 Boot Disk~
+501 Insert the disk that you want to format
+502 in drive A:.
+503 Preparation of a boot disk.
+504 Defective disk or write protected!
+505 Insert a disk in drive A:
+507 Defective disk!
+508 Change the disk and start again.
+509 Boot disk ready!
+510 Use it to boot the computer.
+511 Some things haven't been found:
+512 HIMEM.SYS driver
+513 Mouse driver
+514 Keyboard driver
+515 CD driver
+
+600 B£squeda de versiones anteriores...
+601 %3ld.%1ld Mo
+602 Memoria libre necesaria : %s
+603 ~Abandonar~
+604 Rat¢n
+605 Inserta el disquete 1 del episodio %d en el lector
+606 ~Presente~
+607 ≠ No hay suficiente espacio en el disco duro ! (%s faltan)
+608 Elige tu idioma :
+609 ~Instalaci¢n completa  %s~
+610 ~Instalaci¢n parcial   %s~
+611 ~Juego~
+612 ~Demostraciones~
+613 Tu configuraci¢n es la siguiente :
+614 Tarjeta gr†fica
+615 ~VGA~
+616 ~Interface Mediavision Proaudio~
+617 ~Interface Soundblaster~
+618 ~Interface compatible Adlib~
+619 ~Interface InterSOUND MDO~
+620 ~Sonido PC~
+621 ~Sin sonido~
+622 Tarjeta sonora
+623 Joystick
+624 ~Ausente~
+625 ~Desactivado~
+626 ~Activado~~~~
+627 Idioma
+628 Configuraci¢n avanzada~
+629 [ OK ø ]
+630 Elige tu tarjeta sonora
+631 Elige la nueva configuraci¢n
+632 Configuraci¢n autom†tica
+633 Inserta el disquete %d en el lector %s
+634 Instalaci¢n de %s
+635 Error en el disco
+636 Imposible crear el directorio %s
+637 El disco %c no existe
+638 Copia de %s
+639 Espacio insuficiente en el disco. ≠ Elige otro drive !
+640 ~Espa§ol~
+641 Elige una opci¢n
+642 ≠ ATENCION !
+643 No hay memoria expandida
+644 Efectos visuales o sonoros
+645 no podr†n producirse
+646 En caso de problema consulta el manual apropiado
+647 Presiona ENTER para continuar o ESC para abandonar
+648 Error menor, no afecta el funcionamiento del juego
+649 Verificaci¢n de %s
+650 en %s
+651 Lista de unidades del disco duro
+652 Existe ya una versi¢n de %s
+653 ® Quieres borrarlo ?
+654 ~Si~
+655 ~No~
+656 %s EPISODIO %d
+657 ® Quieres reemplazarlo ?
+658 ® Quieres borrar antes de la instalaci¢n ?
+659 Elige tu partici¢n
+660 sobre %s
+661 Confirmas borrado de %s
+662 Borrado terminado
+663 ® Quieres instalar %s
+664 en el drive C:\ ?
+665 Imposible acceder a este drive
+666 ~In£til~
+667 Elige una demo:
+668 ~Instalaci¢n sobre el disco duro~
+669 ~Ejecuci¢n en CD-ROM~
+670 INSERTAR LA DISQUETTE 1 DEL JUEGO EN EL LECTOR
+680 ≠ ATENCION !
+681 Para funcionar correctamente
+682 este programa necesita %d Koctets de RAM
+683 este programa necesita %d Koctets en el disco duro
+684 Tienes s¢lo %d Koctets disponibles
+685 En caso de problema consulta el manual apropiado
+686 Presiona ENTER para continuar o ESC para salir
+687 Este programa necesita disco duro
+688 Presiona una tecla para salir
+689 Es necesario un rat¢n compatible Microsoft
+690 Necesita tarjeta VGA
+691 Necesita una tarjeta sonora Soundblaster
+692 Es necesaria una tarjeta compatible Adlib
+693 Es necesaria una tarjeta Media Vision Proaudio
+695 La aplicaci¢n necesita un CD-ROM
+700 Disquete-sistema~
+701 Inserta el disquete para formatear
+702 en el lector A:
+703 Preparaci¢n del disquete-sistema en curso
+704 ≠ Disquete defectuoso o protegido contra escritura !
+705 Inserta un disquete en el lector A:
+707 Disquete defectuoso
+708 Cambia de disco y vuelve a comenzar
+709 ≠ Disquete sistema preparado !
+710 Utilizalo para arrancar el ordenador
+711 Algunos elementos no han sido encontrados
+712 Gesti¢n HIMEM.SYS
+713 Gesti¢n del rat¢n
+714 Gesti¢n del teclado
+715 Gesti¢n de CD-ROM
+
+800 Ricerca delle versioni precedenti...
+801 %3ld.%1ld Mb
+802 Spazio libero necessario: %s
+803 ~Uscire~
+804 Mouse
+805 Inserire il dischetto 1 dell'episodio %d nel drive
+806 ~Presentato~
+807 Spazio insufficente sul disco rigido (spazio mancante %s)
+808 Scegliere la vostra lingua:
+809 ~Installazione completa %s~
+810 ~Installazione parziale %s~
+811 ~Gioco~
+812 ~Demo~
+813 La vostra configurazione ä la seguente:
+814 Scheda grafica
+815 ~VGA~
+816 ~Interfaccia Mediavision Proaudio
+817 ~Interfaccia SoundBlaster~
+818 ~Interfaccia compatibile AdLib~
+819 ~Interfaccia Intersound MDO~
+820 Altoparlante PC
+821 Nessun suono
+822 Scheda sonora
+823 Joystick
+824 Assente
+825 Disattivato
+826 Attivato
+827 Lingua
+828 Configurazione avanzata
+829 [ OK ø ]
+830 Scegliere la vostra scheda sonora
+831 Scegliere la nuova configurazione
+832 Configurazione automatica
+833 Inserire il dischetto %d nel drive %s
+834 Installazione di %s
+835 Errore dischetto
+836 Impossibile creare la directory %s
+837 Non esiste il disco %c
+838 Copia di %s
+839 Spazio su disco insufficiente! Scegliere un'altro drive!
+840 ~Italiano~
+841 Scegliere un'opzione
+842 ATTENZIONE!
+843 Memoria estesa non sufficiente.
+844 Alcuni effetti visivi o sonori
+845 potranno non aver luogo.
+846 In caso di problemi consultare il manuale.
+847 Premere ENTER per continuare o ESC per uscire.
+848 Errore minimo che non influenza il buon funzionamento del gioco
+849 Verifica di %s
+850 nel %s
+851 Lista delle unitÖ del disco rigido
+852 Esiste giÖ una versione di %s
+853 Volete cancellarla?
+854 ~SI~
+855 ~NO~
+856 %s EPISODIO %d
+857 Desiderate sostituirlo?
+858 Desiderate cancellarlo prima dell'installazione?
+859 Scegliete la vostra partizione
+860 su %s
+861 Confermare la cancellazione di %s
+862 Cancellazione terminata
+863 Volete installare %s
+864 sul drive C:\?
+865 Impossibile accedere a questo drive!
+866 ~Inutile
+867 Scegliete una demo :
+868 ~Installazione su disco rigido~
+869 ~Esecuzione da CD-ROM~
+870 INSERITE IL DISCO 1 DEL GIOCO NEL LETTORE
+880 ATTENZIONE!
+881 Per un corretto funzionamento,
+882 Per questo programma sono necessari %d KB di Ram.
+883 Per questo programma sono necessari %d KB sul disco rigido.
+884 Avete soltanto %d KB disponibili.
+885 In caso di problemi consultare il manuale.
+886 Premere ENTER per continuare o ESC per uscire.
+887 Per questo programma ä necessario un disco rigido.
+888 Premere un tasto per uscire...
+889 E' necessario un mouse Microsoft compatibile.
+890 E' necessaria una scheda VGA.
+891 E' necessaria una scheda sonora SoundBlaster.
+892 E' necessaria una scheda sonora compatibile Adlib.
+893 E' necessaria una scheda sonora Media Vision Proaudio.
+895 L'applicazione necessita di un CD-ROM.
+900 Dischetto di sistema
+901 Inserire il dischetto da formattare
+902 nel drive A:
+903 Preparazione del dischetto di sistema in corso
+904 Dischetto difettoso o protetto da scrittura!
+905 Inserire un dischetto nel drive A:
+907 Dischetto difettoso.
+908 Cambiare dischetto e ricominciare.
+910 Utilizzatelo per avviare il computer.
+911 Alcuni elementi non sono stati trovati:
+912 Gestore HIMEM.SYS
+913 Driver del mouse.
+914 Driver della tastiera.
+915 Driver del CD.

@@ -1,0 +1,32 @@
+DOS Installer -  Version 1.0
+      Copyright 1990.
+Choose `A'ccept if the options shown are correct.
+Choose `C'hange to select options other than those provided.
+Use the arrow keys ( and ) to move to the desired selection.
+When the desired selection is highlighted, choose `A'ccept.
+Use the arrow keys ( and ) to move to the desired selection.
+When the desired selection is highlighted, choose `A'ccept.
+Use the arrow keys ( and ) to move to the desired selection.
+When the desired selection is highlighted, choose `A'ccept.
+Use the arrow keys ( and ) to move to the desired selection.
+When the desired selection is highlighted, choose `A'ccept.
+The Music/Sound Device you selected is not detectable.  In order
+to determine the location of the board in your machine, a port
+address must be chosen from the list presented here.  The board's
+default address will be highlighted until another address
+is selected.  If you are unsure about which address to choose,
+check the manual which came with the board.
+
+If you are unable to generate music/sound while running the
+software, double-check the address selected here.
+Choose `Y'es if you want to install the software onto another drive.
+Choose `N'o to skip this step.
+Choose `A'ccept if the options shown are correct.
+Choose `C'hange if you wish to change the source drive,
+     destination drive, or destination path.
+Choose `E'xit to return to DOS.
+If available, you may choose `R'un to run the product.
+Choose `E'xit to return to DOS.  Use the ESC key
+to back up to the Disk Installation window.
+An error occurred during the installation.  Correct
+the problem and re-run the install program.
